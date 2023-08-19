@@ -1,6 +1,7 @@
 # Meta Front-End Developer Professional Certificate
-
-<img src="./meta-logo.png" width=150>
+<p align="center">
+<img src="./meta-logo.png" width="150" alt="meta logo."
+  style="border: 2px solid  gray;" />
 
 - This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
