@@ -1,6 +1,9 @@
 # HTML and CSS in depth
 
-<img src="../meta-logo.png" width=150>
+<p align="center">
+<img src="./meta-logo.png" width="150" alt="meta logo."
+  style="border: 2px solid  gray;" />
+</p>
 
 - This directory contains all of my assignments from the Coursera Course: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth)
 
